@@ -1,0 +1,39 @@
+{
+    "number": 10,
+    "symbol": "YC",
+    "sellerFeeBasisPoints": 1000,
+    "isMutable": true,
+    "isSequential": false,
+    "creators": [
+      {
+        "address": "811oAv37aLgzVcHJ5hJrpczaSnxJkykyDLin3xi8QwiJ",
+        "share": 100
+      }
+    ],
+    "uploadMethod": "nft_storage",
+    "awsConfig": null,
+    "nftStorageAuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDgzMGMwRGI4ZkZiRjUyN0U1ZDc3Y2U4Q0Y5RTc5N0JDQkM1YzQ1NjMiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTcxNjQ5MzczOTUxOCwibmFtZSI6IlNPTEFOQS1GQU1JTFkifQ.v5bPZZGwBFpgLoRj66HGg5_69E_A8zVPEUFygtS4VCk",
+    "shdwStorageAccount": null,
+    "pinataConfig": null,
+    "hiddenSettings": null,
+    "guards": {
+      "default": {
+      "mintLimit": {
+      "id": 1,
+      "limit": 1
+  },
+      "solPayment":{
+      "value": 0.2,
+      "destination": "EmSTBvw9oGGy5EpFeS5Gx9pK4mmtnAYFf9wHRUikFuwS"
+  },
+      "startDate":{
+          "date": "2024-6-01T01:00:00Z"
+  },
+      "botTax": {
+      "value": 0.01,
+      "lastTransaction": true
+  }
+  }
+  
+  }
+  }
